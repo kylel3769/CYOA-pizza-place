@@ -1,5 +1,5 @@
 boop
 
-[boop again](funny1.md)
+[boop again](../funnies.md/funny1.md)
 
-[Let's go back to focusing on the sounds](weird-sound.md)
+[Let's go back to focusing on the sound outside](../Consquences/weird-sound.md)
