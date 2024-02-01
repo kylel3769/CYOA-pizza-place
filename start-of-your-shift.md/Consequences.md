@@ -1,7 +1,7 @@
 After you hang up on the annoying dude, you suddenly hear a loud stomp outside of your room. There is also a weird poster to your right with a weird looking nose.
 
-[Look down the hall way](weird-sound.md)
+[Look down the hall way](../Consquences/weird-sound.md)
 
 [Ignore the sounds](death.md)
 
-[Boop the snoot](funny.md)
+[Boop the snoot](../Consquences/funny.md)
