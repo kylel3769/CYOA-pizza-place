@@ -4,4 +4,4 @@ You decide to pick up the phone that is ringing on the security desk and start l
 
 [Ignore the sounds](blind.md)
 
-[Hand up the phone and go explore](explore.md)
+[Decide to go look for what is making these sounds](explore.md)
