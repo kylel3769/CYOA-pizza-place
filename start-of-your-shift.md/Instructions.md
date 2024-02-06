@@ -3,3 +3,5 @@ You decide to pick up the phone that is ringing on the security desk and start l
 [Look out the door](vision.md)
 
 [Ignore the sounds](blind.md)
+
+[Hand up the phone and go explore](explore.md)
