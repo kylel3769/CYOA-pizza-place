@@ -1,6 +1,6 @@
 You look down the hallway and see a weird fox silhouette
 
-<img src="weird_silhouette">
+![](weird_silhouette.png)
 
 [Shut the door on them](../Consquences/close-door.md)
 
